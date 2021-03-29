@@ -1,0 +1,121 @@
+body {
+    margin: 0px;
+}
+
+body .container-f3 {
+    background: #00A1C6;
+}
+
+body .container-f3 .header-f3 {
+    text-align: center;
+}
+
+body .container-f3 .header-f3 .header-h5-f3 {
+    margin: 0;
+    padding: 25px 0 0 0;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    line-height: 34px;
+    text-align: center;
+    color: #2B292D;
+}
+
+body .container-f3 .header-f3 .header-h1-f3 {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 43px;
+    line-height: 56px;
+    text-align: center;
+    letter-spacing: -0.5px;
+    color: #2B292D;
+    width: 508px;
+    margin: 9px auto;
+}
+
+body .container-f3 .header-f3 .header-p-f3 {
+    width: 437px;
+    margin: auto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 34px;
+    text-align: center;
+    color: #2B292D;
+}
+
+body .container-f3 .header-f3 .head-button-f3 {
+    display: flex;
+    display: inline-flex;
+}
+
+body .container-f3 .header-f3 .head-button-f3 .head-button1-f3 {
+    margin: 22px 5px 32px 0;
+    background: #3040C4;
+    padding: 0 19px;
+    border-radius: 2px;
+    color: white;
+    font-weight: bold;
+    height: 39px;
+}
+
+body .container-f3 .header-f3 .head-button-f3 .head-button1-f3 .head-button1-p-f3 {
+    margin: 9px;
+}
+
+body .container-f3 .header-f3 .head-button-f3 .head-button2-f3 {
+    margin: 22px 5px 32px 0;
+    color: #2B292D;
+    padding: 0 19px;
+    font-weight: bold;
+    background: white;
+    border-radius: 2px;
+    height: 39px;
+}
+
+body .container-f3 .header-f3 .head-button-f3 .head-button2-f3 .head-button2-p-f3 {
+    margin: 13px;
+}
+
+body .container-f3 .header-f3 .head-button-f3 .head-button1-f3:hover {
+    background: #c90300;
+}
+
+body .container-f3 .header-f3 .head-button-f3 .head-button2-f3:hover {
+    background: #c90300;
+}
+
+body .container-f3 .text-table {
+    display: flex;
+    justify-content: center;
+    padding: 0 0 40px 0;
+}
+
+body .container-f3 .text-table .picture-f3 {
+    background: white;
+    border-radius: 6px;
+    margin: 0 27px;
+    height: 219px;
+    width: 173px;
+}
+
+body .container-f3 .text-table .picture-f3 .hinh-text-f3 {
+    margin: 15px 35px;
+    width: 108px;
+    flex: 1;
+    height: 140px;
+}
+
+body .container-f3 .text-table .picture-f3 .picture1-h3-f3 {
+    text-align: center;
+    flex: 1;
+    margin: 14px 0 0 0;
+}
+
+body .container-f3 .text-table .picture-f3:hover {
+    background: #3040C4;
+    color: white;
+}
+
+
+/*# sourceMappingURL=font3.css.map */
